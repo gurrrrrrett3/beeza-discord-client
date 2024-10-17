@@ -1,0 +1,9 @@
+{
+    "name": "stream",
+    "description": "steamer.bot connection",
+    "version": "1.0.0",
+    "intents": [
+        "Guilds",
+        "GuildMessages"
+    ]
+}
