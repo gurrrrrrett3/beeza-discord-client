@@ -36,6 +36,7 @@
     "@mikro-orm/core": "^5.6.8",
     "@mikro-orm/postgresql": "^5.6.8",
     "@mikro-orm/reflection": "^5.6.8",
+    "@streamerbot/client": "^1.8.3",
     "chalk": "^5.3.0",
     "discord.js": "^14.2.0",
     "dotenv": "^16.0.1",

@@ -7,5 +7,10 @@
     "showCommandCount": true,
     "showModuleLoadInfo": true,
     "showInteractionHasExpired": true
+  },
+  "stream": {
+    "host": "10.1.1.10",
+    "port": 8080,
+    "commands": {}
   }
 }
